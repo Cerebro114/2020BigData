@@ -1,0 +1,13 @@
+{
+  "apikey": "qd-ewNjl9yIlvljEqqej4Hp5b4IYosyq_X39wATWIO0j",
+  "cos_hmac_keys": {
+    "access_key_id": "d58abb44273e4215b52f5dd4cf478f4c",
+    "secret_access_key": "6bb85a3d88d08f8181d3cac6624f64c6b8db8a003546e041"
+  },
+  "endpoints": "https://control.cloud-object-storage.cloud.ibm.com/v2/endpoints",
+  "iam_apikey_description": "Auto-generated for key d58abb44-273e-4215-b52f-5dd4cf478f4c",
+  "iam_apikey_name": "Cerebro1",
+  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Writer",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/45d270b471dd4597bd6a3022d23dc998::serviceid:ServiceId-9bb6fe7d-cdee-4047-92a5-2a6e370bcd95",
+  "resource_instance_id": "crn:v1:bluemix:public:cloud-object-storage:global:a/45d270b471dd4597bd6a3022d23dc998:d4b97096-5722-4246-a956-a1697e212b17::"
+}
